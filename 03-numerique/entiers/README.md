@@ -1,0 +1,3 @@
+# Types entiers
+
+Exemples à ajouter : TINYINT, SMALLINT, MEDIUMINT, INT, BIGINT, SERIAL, BOOL/BOOLEAN.
